@@ -1,0 +1,58 @@
+{
+    "status": 0,
+    "device_status": {},
+    "private_mode": false,
+    "last_updated": "1970-01-01 08:00:01",
+    "version": 2,
+    "debug": false,
+    "host": "0.0.0.0",
+    "port": 9010,
+    "secret": "ComPE2765233823",
+    "status_list": [
+        {
+            "id": 0,
+            "name": "活着",
+            "desc": "目前在线，可以通过任何可用的联系方式联系本人。",
+            "color": "awake"
+        },
+        {
+            "id": 1,
+            "name": "似了",
+            "desc": "睡似了或其他原因不在线，紧急情况请使用电话联系。",
+            "color": "sleeping"
+        }
+    ],
+    "other": {
+        "user": "九霜",
+        "background": "https://ghsrc.wyf9.top/img13.jpg",
+        "alpha": 0.85,
+        "learn_more": "GitHub Repo",
+        "repo": "https://github.com/wyf9/sleepy",
+        "more_text": ""
+    },
+    "metrics": {
+        "today_is": "2025-2-2",
+        "month_is": "2025-2",
+        "year_is": "2025",
+        "today": {
+            "/": 1,
+            "/style.css": 1,
+            "/query": 3
+        },
+        "month": {
+            "/": 1,
+            "/style.css": 1,
+            "/query": 3
+        },
+        "year": {
+            "/": 1,
+            "/style.css": 1,
+            "/query": 3
+        },
+        "total": {
+            "/": 1,
+            "/style.css": 1,
+            "/query": 3
+        }
+    }
+}
